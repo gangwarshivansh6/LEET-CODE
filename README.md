@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/gangwarshivansh6/Shivansh/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gangwarshivansh6/Shivansh/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0334-increasing-triplet-subsequence](https://github.com/gangwarshivansh6/Shivansh/tree/master/0334-increasing-triplet-subsequence) |
+| [3731-find-missing-elements](https://github.com/gangwarshivansh6/Shivansh/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -31,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/gangwarshivansh6/Shivansh/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+## Hash Table
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/gangwarshivansh6/Shivansh/tree/master/3731-find-missing-elements) |
+## Sorting
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/gangwarshivansh6/Shivansh/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
