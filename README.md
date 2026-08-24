@@ -40,4 +40,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3731-find-missing-elements](https://github.com/gangwarshivansh6/Shivansh/tree/master/3731-find-missing-elements) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/gangwarshivansh6/Shivansh/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/gangwarshivansh6/Shivansh/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/gangwarshivansh6/Shivansh/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
