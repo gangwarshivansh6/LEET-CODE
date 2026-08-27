@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/gangwarshivansh6/Shivansh/tree/master/0326-power-of-three) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/gangwarshivansh6/Shivansh/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Hash Table
 |  |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gangwarshivansh6/Shivansh/tree/master/0020-valid-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/gangwarshivansh6/Shivansh/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
