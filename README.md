@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/gangwarshivansh6/Shivansh/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gangwarshivansh6/Shivansh/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/gangwarshivansh6/Shivansh/tree/master/0189-rotate-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/gangwarshivansh6/Shivansh/tree/master/0334-increasing-triplet-subsequence) |
 | [0929-unique-email-addresses](https://github.com/gangwarshivansh6/Shivansh/tree/master/0929-unique-email-addresses) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/gangwarshivansh6/Shivansh/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/gangwarshivansh6/Shivansh/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/gangwarshivansh6/Shivansh/tree/master/0326-power-of-three) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/gangwarshivansh6/Shivansh/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Hash Table
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/gangwarshivansh6/Shivansh/tree/master/0326-power-of-three) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/gangwarshivansh6/Shivansh/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
