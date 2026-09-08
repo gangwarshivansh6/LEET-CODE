@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gangwarshivansh6/Shivansh/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/gangwarshivansh6/Shivansh/tree/master/0125-valid-palindrome) |
 | [0929-unique-email-addresses](https://github.com/gangwarshivansh6/Shivansh/tree/master/0929-unique-email-addresses) |
 ## Stack
 |  |
@@ -71,5 +72,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/gangwarshivansh6/Shivansh/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/gangwarshivansh6/Shivansh/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
