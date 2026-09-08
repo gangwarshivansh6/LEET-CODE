@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/gangwarshivansh6/Shivansh/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gangwarshivansh6/Shivansh/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0162-find-peak-element](https://github.com/gangwarshivansh6/Shivansh/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/gangwarshivansh6/Shivansh/tree/master/0189-rotate-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/gangwarshivansh6/Shivansh/tree/master/0334-increasing-triplet-subsequence) |
 | [0929-unique-email-addresses](https://github.com/gangwarshivansh6/Shivansh/tree/master/0929-unique-email-addresses) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/gangwarshivansh6/Shivansh/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/gangwarshivansh6/Shivansh/tree/master/0162-find-peak-element) |
 | [0367-valid-perfect-square](https://github.com/gangwarshivansh6/Shivansh/tree/master/0367-valid-perfect-square) |
 ## Matrix
 |  |
