@@ -28,10 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gangwarshivansh6/Shivansh/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/gangwarshivansh6/Shivansh/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/gangwarshivansh6/Shivansh/tree/master/0334-increasing-triplet-subsequence) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/gangwarshivansh6/Shivansh/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/gangwarshivansh6/Shivansh/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/gangwarshivansh6/Shivansh/tree/master/0125-valid-palindrome) |
 | [0929-unique-email-addresses](https://github.com/gangwarshivansh6/Shivansh/tree/master/0929-unique-email-addresses) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/gangwarshivansh6/Shivansh/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Stack
 |  |
 | ------- |
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/gangwarshivansh6/Shivansh/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/gangwarshivansh6/Shivansh/tree/master/0189-rotate-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/gangwarshivansh6/Shivansh/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Trie
 |  |
 | ------- |
