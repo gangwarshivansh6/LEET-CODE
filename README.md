@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/gangwarshivansh6/Shivansh/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/gangwarshivansh6/Shivansh/tree/master/0189-rotate-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/gangwarshivansh6/Shivansh/tree/master/0334-increasing-triplet-subsequence) |
+| [0414-third-maximum-number](https://github.com/gangwarshivansh6/Shivansh/tree/master/0414-third-maximum-number) |
 | [0929-unique-email-addresses](https://github.com/gangwarshivansh6/Shivansh/tree/master/0929-unique-email-addresses) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/gangwarshivansh6/Shivansh/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/gangwarshivansh6/Shivansh/tree/master/3731-find-missing-elements) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/gangwarshivansh6/Shivansh/tree/master/0414-third-maximum-number) |
 | [3731-find-missing-elements](https://github.com/gangwarshivansh6/Shivansh/tree/master/3731-find-missing-elements) |
 ## String
 |  |
