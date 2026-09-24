@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gangwarshivansh6/Shivansh/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/gangwarshivansh6/Shivansh/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/gangwarshivansh6/Shivansh/tree/master/0074-search-a-2d-matrix) |
+| [0088-merge-sorted-array](https://github.com/gangwarshivansh6/Shivansh/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gangwarshivansh6/Shivansh/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/gangwarshivansh6/Shivansh/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gangwarshivansh6/Shivansh/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/gangwarshivansh6/Shivansh/tree/master/0088-merge-sorted-array) |
 | [0414-third-maximum-number](https://github.com/gangwarshivansh6/Shivansh/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/gangwarshivansh6/Shivansh/tree/master/0977-squares-of-a-sorted-array) |
 | [3731-find-missing-elements](https://github.com/gangwarshivansh6/Shivansh/tree/master/3731-find-missing-elements) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gangwarshivansh6/Shivansh/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/gangwarshivansh6/Shivansh/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/gangwarshivansh6/Shivansh/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gangwarshivansh6/Shivansh/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/gangwarshivansh6/Shivansh/tree/master/0189-rotate-array) |
