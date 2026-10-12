@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/gangwarshivansh6/Shivansh/tree/master/0414-third-maximum-number) |
 | [0929-unique-email-addresses](https://github.com/gangwarshivansh6/Shivansh/tree/master/0929-unique-email-addresses) |
 | [0977-squares-of-a-sorted-array](https://github.com/gangwarshivansh6/Shivansh/tree/master/0977-squares-of-a-sorted-array) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/gangwarshivansh6/Shivansh/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/gangwarshivansh6/Shivansh/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/gangwarshivansh6/Shivansh/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/gangwarshivansh6/Shivansh/tree/master/0334-increasing-triplet-subsequence) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/gangwarshivansh6/Shivansh/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/gangwarshivansh6/Shivansh/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/gangwarshivansh6/Shivansh/tree/master/0001-two-sum) |
 | [0929-unique-email-addresses](https://github.com/gangwarshivansh6/Shivansh/tree/master/0929-unique-email-addresses) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/gangwarshivansh6/Shivansh/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/gangwarshivansh6/Shivansh/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/gangwarshivansh6/Shivansh/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -108,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/gangwarshivansh6/Shivansh/tree/master/0002-add-two-numbers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/gangwarshivansh6/Shivansh/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 <!---LeetCode Topics End-->
