@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gangwarshivansh6/Shivansh/tree/master/0001-two-sum) |
+| [0389-find-the-difference](https://github.com/gangwarshivansh6/Shivansh/tree/master/0389-find-the-difference) |
 | [0929-unique-email-addresses](https://github.com/gangwarshivansh6/Shivansh/tree/master/0929-unique-email-addresses) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/gangwarshivansh6/Shivansh/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/gangwarshivansh6/Shivansh/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/gangwarshivansh6/Shivansh/tree/master/0088-merge-sorted-array) |
+| [0389-find-the-difference](https://github.com/gangwarshivansh6/Shivansh/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/gangwarshivansh6/Shivansh/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/gangwarshivansh6/Shivansh/tree/master/0977-squares-of-a-sorted-array) |
 | [3731-find-missing-elements](https://github.com/gangwarshivansh6/Shivansh/tree/master/3731-find-missing-elements) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/gangwarshivansh6/Shivansh/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/gangwarshivansh6/Shivansh/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/gangwarshivansh6/Shivansh/tree/master/0125-valid-palindrome) |
+| [0389-find-the-difference](https://github.com/gangwarshivansh6/Shivansh/tree/master/0389-find-the-difference) |
 | [0929-unique-email-addresses](https://github.com/gangwarshivansh6/Shivansh/tree/master/0929-unique-email-addresses) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/gangwarshivansh6/Shivansh/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Stack
@@ -114,5 +117,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/gangwarshivansh6/Shivansh/tree/master/0389-find-the-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/gangwarshivansh6/Shivansh/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 <!---LeetCode Topics End-->
