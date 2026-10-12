@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/gangwarshivansh6/Shivansh/tree/master/0414-third-maximum-number) |
 | [0929-unique-email-addresses](https://github.com/gangwarshivansh6/Shivansh/tree/master/0929-unique-email-addresses) |
 | [0977-squares-of-a-sorted-array](https://github.com/gangwarshivansh6/Shivansh/tree/master/0977-squares-of-a-sorted-array) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/gangwarshivansh6/Shivansh/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/gangwarshivansh6/Shivansh/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/gangwarshivansh6/Shivansh/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/gangwarshivansh6/Shivansh/tree/master/3731-find-missing-elements) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/gangwarshivansh6/Shivansh/tree/master/0001-two-sum) |
 | [0389-find-the-difference](https://github.com/gangwarshivansh6/Shivansh/tree/master/0389-find-the-difference) |
 | [0929-unique-email-addresses](https://github.com/gangwarshivansh6/Shivansh/tree/master/0929-unique-email-addresses) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/gangwarshivansh6/Shivansh/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/gangwarshivansh6/Shivansh/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/gangwarshivansh6/Shivansh/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/gangwarshivansh6/Shivansh/tree/master/3731-find-missing-elements) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/gangwarshivansh6/Shivansh/tree/master/0125-valid-palindrome) |
 | [0389-find-the-difference](https://github.com/gangwarshivansh6/Shivansh/tree/master/0389-find-the-difference) |
 | [0929-unique-email-addresses](https://github.com/gangwarshivansh6/Shivansh/tree/master/0929-unique-email-addresses) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/gangwarshivansh6/Shivansh/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/gangwarshivansh6/Shivansh/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Stack
 |  |
@@ -119,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/gangwarshivansh6/Shivansh/tree/master/0389-find-the-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/gangwarshivansh6/Shivansh/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+## Counting
+|  |
+| ------- |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/gangwarshivansh6/Shivansh/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 <!---LeetCode Topics End-->
