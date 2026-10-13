@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/gangwarshivansh6/Shivansh/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gangwarshivansh6/Shivansh/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/gangwarshivansh6/Shivansh/tree/master/0189-rotate-array) |
+| [0219-contains-duplicate-ii](https://github.com/gangwarshivansh6/Shivansh/tree/master/0219-contains-duplicate-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/gangwarshivansh6/Shivansh/tree/master/0334-increasing-triplet-subsequence) |
 | [0414-third-maximum-number](https://github.com/gangwarshivansh6/Shivansh/tree/master/0414-third-maximum-number) |
 | [0929-unique-email-addresses](https://github.com/gangwarshivansh6/Shivansh/tree/master/0929-unique-email-addresses) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gangwarshivansh6/Shivansh/tree/master/0001-two-sum) |
+| [0219-contains-duplicate-ii](https://github.com/gangwarshivansh6/Shivansh/tree/master/0219-contains-duplicate-ii) |
 | [0389-find-the-difference](https://github.com/gangwarshivansh6/Shivansh/tree/master/0389-find-the-difference) |
 | [0929-unique-email-addresses](https://github.com/gangwarshivansh6/Shivansh/tree/master/0929-unique-email-addresses) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/gangwarshivansh6/Shivansh/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/gangwarshivansh6/Shivansh/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/gangwarshivansh6/Shivansh/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
